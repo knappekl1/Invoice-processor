@@ -1,0 +1,6 @@
+{ "LoginDataStorage":"RossumLogin",
+"EmailNotification": "libor.knappek@valuetools.cz",
+"EmailSender":"info@valuetools.cz",
+"PasswordSender":"Liborknappek1+",
+"OutputTableMap":"Data\\OutputTableRows.xlsx"
+}

@@ -1,0 +1,6 @@
+Invoice Number,Order Number,Issue Date,Due Date,Tax Point Date,Account Number,Bank Code,IBAN,BIC/SWIFT,Payment Reference,Specific Symbol,Total Amount,Due Amount,Total Without Tax,Total Tax,Amount Rounding,Currency,Vendor Name,Vendor Company ID,Vendor VAT Number,Customer Company ID,Customer VAT Number,Notes,VAT Rate,VAT Base,VAT Amount,Description,Quantity,Unit Price Without VAT,VAT Rate_Line,Total Base,Total Amount_Line
+4204563,576,2020-12-01,2020-12-01,2020-12-01,,,DE71 4016 4024 0753 2000 00,GENO DE M1 GRN,,,4500.92,4500.92,3880.10,620.82,,eur,"C. Cramer, Weberei, GmbH & Co. KG",301/5710/0092,DE 123 78 33 32,,,,16.00,3880.10,620.82,,,,,,
+4204563,576,2020-12-01,2020-12-01,2020-12-01,,,DE71 4016 4024 0753 2000 00,GENO DE M1 GRN,,,4500.92,4500.92,3880.10,620.82,,eur,"C. Cramer, Weberei, GmbH & Co. KG",301/5710/0092,DE 123 78 33 32,,,,,,,"Style 404
+600,00 8/m2 Abrufnr.:
+100,00",255.27,,,,15.20
+4204563,576,2020-12-01,2020-12-01,2020-12-01,,,DE71 4016 4024 0753 2000 00,GENO DE M1 GRN,,,4500.92,4500.92,3880.10,620.82,,eur,"C. Cramer, Weberei, GmbH & Co. KG",301/5710/0092,DE 123 78 33 32,,,,,,,"2 201,00 m",,,,,
